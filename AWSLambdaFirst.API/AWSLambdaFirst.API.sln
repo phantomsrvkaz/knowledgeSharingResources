@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaFirst", "AWSLambdaFirst\AWSLambdaFirst.csproj", "{CEA6640E-5751-42CD-BAB2-63319649B78E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaSecond", "AWSLambdaSecond\AWSLambdaSecond.csproj", "{586DAC44-F5A5-4900-BABC-413B413B1B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA6640E-5751-42CD-BAB2-63319649B78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA6640E-5751-42CD-BAB2-63319649B78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA6640E-5751-42CD-BAB2-63319649B78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA6640E-5751-42CD-BAB2-63319649B78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586DAC44-F5A5-4900-BABC-413B413B1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586DAC44-F5A5-4900-BABC-413B413B1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586DAC44-F5A5-4900-BABC-413B413B1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586DAC44-F5A5-4900-BABC-413B413B1B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1341B781-52E1-4FEE-A2C5-7FC4420F2FC8}
+	EndGlobalSection
+EndGlobal
